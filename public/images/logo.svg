@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg971"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview973"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.35212985"
+     inkscape:cx="320.90435"
+     inkscape:cy="579.33174"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs968" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="text1770"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;white-space:pre;shape-inside:url(#rect1772);fill:#2d2d2d;fill-opacity:1;stroke-width:3.1369"
+       d="M 104.94887,43.14289 A 103.93609,103.93609 0 0 0 1.0077817,147.07719 103.93609,103.93609 0 0 0 104.94887,251.01824 103.93609,103.93609 0 0 0 208.88319,147.07719 103.93609,103.93609 0 0 0 104.94887,43.14289 Z m -68.924644,30.290936 139.787114,1.39726 -4.30734,15.0061 3.14804,128.299594 -19.83698,9.84543 v -106.9532 l -35.60801,73.43941 v 32.73525 H 97.296272 L 96.905494,194.3052 57.663266,121.02901 v 106.9532 L 36.24883,217.74583 40.478034,89.837186 Z m 61.272046,16.40336 -35.325837,5.11648 36.502124,60.918414 z m 21.910778,0 v 64.341884 l 36.5871,-55.679534 z" />
+  </g>
+</svg>

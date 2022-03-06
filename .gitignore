@@ -36,3 +36,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+asdasdasd.txt
+.gitignore
+public/images/name-logo.svg
+yarn.lock
